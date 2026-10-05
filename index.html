@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="el">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Η Βιβλιοθήκη μου</title>
+  <meta name="description" content="Κατάλογος της προσωπικής μου βιβλιοθήκης">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=GFS+Didot&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <div class="ornament" aria-hidden="true">❦</div>
+      <h1>Η Βιβλιοθήκη μου</h1>
+      <p class="subtitle" id="subtitle">&nbsp;</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Αναζήτηση και φίλτρα">
+      <div class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+        <input id="q" type="search" placeholder="Αναζήτηση τίτλου, συγγραφέα, σειράς, εκδότη…" autocomplete="off" aria-label="Αναζήτηση">
+      </div>
+
+      <div class="chips" id="categories" role="group" aria-label="Κατηγορίες"></div>
+
+      <div class="selects">
+        <label>Γλώσσα
+          <select id="language"><option value="">Όλες</option></select>
+        </label>
+        <label>Σειρά
+          <select id="series"><option value="">Όλες</option></select>
+        </label>
+        <label>Συγγραφέας
+          <select id="author"><option value="">Όλοι</option></select>
+        </label>
+        <label>Ομαδοποίηση
+          <select id="group">
+            <option value="">Καμία</option>
+            <option value="category">Ανά κατηγορία</option>
+            <option value="series">Ανά σειρά</option>
+            <option value="author">Ανά συγγραφέα</option>
+            <option value="language">Ανά γλώσσα</option>
+          </select>
+        </label>
+        <label>Ταξινόμηση
+          <select id="sort">
+            <option value="title">Τίτλος</option>
+            <option value="author">Συγγραφέας</option>
+            <option value="series">Σειρά &amp; τόμος</option>
+            <option value="id">Κωδικός</option>
+          </select>
+        </label>
+        <button type="button" id="reset" class="link">Καθαρισμός</button>
+      </div>
+    </section>
+
+    <p class="result-count" id="count" aria-live="polite"></p>
+    <div id="results"></div>
+  </main>
+
+  <footer class="wrap colophon">
+    <span aria-hidden="true">⁂</span>
+    <p>Εξώφυλλα από Open Library &amp; Google Books, όπου ήταν διαθέσιμα.</p>
+  </footer>
+
+  <dialog id="detail" aria-labelledby="d-title">
+    <button class="close" type="button" aria-label="Κλείσιμο" data-close>&times;</button>
+    <div class="detail-body" id="detail-body"></div>
+  </dialog>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

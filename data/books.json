@@ -1,0 +1,2914 @@
+[
+    {
+        "id":  "B001",
+        "title":  "Η φωτιά",
+        "author":  "Katherine Neville",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B002",
+        "title":  "Ίλιγγος",
+        "author":  "Γιάννης Μαρής",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B003",
+        "title":  "Κώδικας Da Vinci",
+        "author":  "Dan Brown",
+        "coauthors":  "",
+        "series":  "Robert Langdon",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B004",
+        "title":  "Ο χιονάνθρωπος",
+        "author":  "Jo Nesbø",
+        "coauthors":  "",
+        "series":  "Harry Hole",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Μεταίχμιο",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B005",
+        "title":  "Πέντε μικρά γουρουνάκια",
+        "author":  "Agatha Christie",
+        "coauthors":  "",
+        "series":  "Hercule Poirot",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B006",
+        "title":  "Σέρλοκ Χολμς: Το μυστήριο των κομμένων αυτιών",
+        "author":  "Arthur Conan Doyle",
+        "coauthors":  "",
+        "series":  "Sherlock Holmes",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Αναστασιάδης",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Ο πλήρης τίτλος επιβεβαιώθηκε από τη ράχη και τον βιβλιογραφικό κατάλογο."
+    },
+    {
+        "id":  "B007",
+        "title":  "Στον ίσκιο των σκοτωμένων κοριτσιών",
+        "author":  "Κυριάκος Μαργαρίτης",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Ψυχογιός",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B008",
+        "title":  "Σχεδόν νουάρ",
+        "author":  "Γιάννης Παπαδόπουλος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Αίολος",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B009",
+        "title":  "Το μαύρο μονοπάτι",
+        "author":  "Åsa Larsson",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Μεταίχμιο",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B010",
+        "title":  "Το μίσος",
+        "author":  "Βαγγέλης Γιαννίσης",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Στη ράχη αναγράφεται V. Giannisis."
+    },
+    {
+        "id":  "B011",
+        "title":  "Το μυστικό χειρόγραφο",
+        "author":  "Kate Sedley",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Η ράχη αναγράφει Κάιτ Σέντλυ. Ταυτοποιήθηκε η συγκεκριμένη έκδοση, όχι άλλα ομώνυμα βιβλία."
+    },
+    {
+        "id":  "B012",
+        "title":  "Το στοίχημα",
+        "author":  "Katherine Neville",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B013",
+        "title":  "Το χαμένο σύμβολο",
+        "author":  "Dan Brown",
+        "coauthors":  "",
+        "series":  "Robert Langdon",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B014",
+        "title":  "Φάδερ ημών",
+        "author":  "Μάνος Βουράκης",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B015",
+        "title":  "Dodger",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Doubleday",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B016",
+        "title":  "Inherent Vice",
+        "author":  "Thomas Pynchon",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Vintage",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B017",
+        "title":  "Sherlock Holmes",
+        "author":  "Arthur Conan Doyle",
+        "coauthors":  "",
+        "series":  "Sherlock Holmes",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B018",
+        "title":  "The Third Man / The Fallen Idol",
+        "author":  "Graham Greene",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  "Δύο έργα σε έναν φυσικό τόμο."
+    },
+    {
+        "id":  "B019",
+        "title":  "Thirteen",
+        "author":  "Steve Cavanagh",
+        "coauthors":  "",
+        "series":  "Eddie Flynn",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B020",
+        "title":  "Ο Ντερκ Τζέντλυ ακολουθεί τη γάτα",
+        "author":  "Douglas Adams",
+        "coauthors":  "",
+        "series":  "Dirk Gently",
+        "subseries":  "",
+        "volume":  "1",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "Παρά Πέντε",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ελληνικός τόμος κάτω από τη λευκή ράχη κάτω από το Sourcery. Ελληνική μετάφραση του Dirk Gently’s Holistic Detective Agency."
+    },
+    {
+        "id":  "B021",
+        "title":  "Το ρεστοράν στο τέλος του σύμπαντος",
+        "author":  "Douglas Adams",
+        "coauthors":  "",
+        "series":  "The Hitchhiker’s Guide to the Galaxy",
+        "subseries":  "",
+        "volume":  "2",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Πίσω από τα όρθια βιβλία, πάνω από το And Another Thing… Ο τίτλος συμπληρώθηκε από το αναγνώσιμο τμήμα και τον συγγραφέα."
+    },
+    {
+        "id":  "B022",
+        "title":  "Ιστορίες με ονοματεπώνυμο [?]",
+        "author":  "Μη αναγνωσμένος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αταξινόμητο",
+        "publisher":  "",
+        "identification":  "Μερικώς αναγνώσιμος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Λευκό λοξό βιβλίο πάνω στη μεσαία στοίβα."
+    },
+    {
+        "id":  "B023",
+        "title":  "Κοράκι σε άλικο φόντο",
+        "author":  "Ελευθέριος Κεραμίδας",
+        "coauthors":  "",
+        "series":  "Οι γιοι της στάχτης",
+        "subseries":  "",
+        "volume":  "1",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Τόμος 1 της τριλογίας «Οι γιοι της στάχτης». Διορθώθηκαν τίτλος, συγγραφέας και κατηγορία."
+    },
+    {
+        "id":  "B024",
+        "title":  "Deepfake",
+        "author":  "Μάκης Μαλαφέκας",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Αστυνομικό / μυστήριο",
+        "publisher":  "Αντίποδες",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Πράσινος οριζόντιος τόμος πάνω από το Ταξιδεύοντας στον χρόνο. Επιβεβαίωση τίτλου από τη ράχη και τον εκδότη."
+    },
+    {
+        "id":  "B025",
+        "title":  "Μη αναγνώσιμος τίτλος",
+        "author":  "Μη αναγνωσμένος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Μη εξακριβωμένη",
+        "category":  "Αταξινόμητο",
+        "publisher":  "",
+        "identification":  "Μη αναγνώσιμος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "IMG_9638: λεπτή εικονογραφημένη ράχη ανάμεσα στο Dragons και στη Χαμένη."
+    },
+    {
+        "id":  "B026",
+        "title":  "Μη αναγνώσιμος τίτλος",
+        "author":  "Μη αναγνωσμένος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Μη εξακριβωμένη",
+        "category":  "Αταξινόμητο",
+        "publisher":  "",
+        "identification":  "Μη αναγνώσιμος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "IMG_9639: πρώτος κρυμμένος ανοιχτόχρωμος τόμος κάτω από τη Γαλαξιακή αυτοκρατορία 3."
+    },
+    {
+        "id":  "B027",
+        "title":  "Μη αναγνώσιμος τίτλος",
+        "author":  "Μη αναγνωσμένος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Μη εξακριβωμένη",
+        "category":  "Αταξινόμητο",
+        "publisher":  "",
+        "identification":  "Μη αναγνώσιμος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "IMG_9639: δεύτερος πιθανός κρυμμένος ανοιχτόχρωμος τόμος κάτω από τη Γαλαξιακή αυτοκρατορία 3."
+    },
+    {
+        "id":  "B028",
+        "title":  "Μη αναγνώσιμος τίτλος",
+        "author":  "Μη αναγνωσμένος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Μη εξακριβωμένη",
+        "category":  "Αταξινόμητο",
+        "publisher":  "",
+        "identification":  "Μη αναγνώσιμος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "IMG_9639 / IMG_9640: μεγάλο βιβλίο μπροστά αριστερά, πάνω από τον τόμο 10 των Πέντε φίλων."
+    },
+    {
+        "id":  "B029",
+        "title":  "Το χρώμα της μαγείας",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Rincewind",
+        "volume":  "1",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "Παρά Πέντε",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Λευκή ράχη κάτω από το Sourcery. Η ένδειξη «Παρά Πέντε» είναι ο εκδότης και είχε παρερμηνευθεί ως όνομα συγγραφέα."
+    },
+    {
+        "id":  "B030",
+        "title":  "Dragons",
+        "author":  "Μη αναγνωσμένος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά [?]",
+        "category":  "Αταξινόμητο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Δεν επιβεβαιώνεται είδος ή συγγραφέας."
+    },
+    {
+        "id":  "B031",
+        "title":  "Σπάζοντας τον Κώδικα Ντα Βίντσι",
+        "author":  "Simon Cox",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Δοκίμιο / συνοδευτικό βιβλίο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B032",
+        "title":  "2010: Οδύσσεια δύο",
+        "author":  "Arthur C. Clarke",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B033",
+        "title":  "Αποστολή Χαίρε Μαρία",
+        "author":  "Andy Weir",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B034",
+        "title":  "Γαλαξιακή αυτοκρατορία",
+        "author":  "Isaac Asimov",
+        "coauthors":  "",
+        "series":  "Γαλαξιακή αυτοκρατορία",
+        "subseries":  "",
+        "volume":  "Μη αναγνώσιμος αριθμός",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Μπλε ράχη. Ο αριθμός τόμου δεν διαβάζεται· δεν μπορεί να προσδιοριστεί ενδεχόμενη αντιστοιχία με αγγλόφωνο τόμο του Foundation."
+    },
+    {
+        "id":  "B035",
+        "title":  "Γαλαξιακή αυτοκρατορία",
+        "author":  "Isaac Asimov",
+        "coauthors":  "",
+        "series":  "Γαλαξιακή αυτοκρατορία",
+        "subseries":  "",
+        "volume":  "Μη αναγνώσιμος αριθμός",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Γκρι ράχη. Ο αριθμός τόμου δεν διαβάζεται· δεν μπορεί να προσδιοριστεί ενδεχόμενη αντιστοιχία με αγγλόφωνο τόμο του Foundation."
+    },
+    {
+        "id":  "B036",
+        "title":  "Γαλαξιακή αυτοκρατορία",
+        "author":  "Isaac Asimov",
+        "coauthors":  "",
+        "series":  "Γαλαξιακή αυτοκρατορία",
+        "subseries":  "",
+        "volume":  "3",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Διαβάζεται ο αριθμός 3. Ο τόμος αφορά το Δεύτερο Θεμέλιο (Second Foundation). Αφαιρέθηκε η λανθασμένη πιθανή αντιστοιχία με το Foundation and Empire."
+    },
+    {
+        "id":  "B037",
+        "title":  "Εκείνο το τραίνο για την κόλαση και άλλα διηγήματα",
+        "author":  "Συλλογικό έργο",
+        "coauthors":  "",
+        "series":  "Ανθολόγημα διηγημάτων επιστημονικής φαντασίας",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Παρά Πέντε",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Συλλογικό έργο· επιμέλεια μη αναγνωσμένη."
+    },
+    {
+        "id":  "B038",
+        "title":  "Η απελευθέρωση της Γης και άλλα διηγήματα",
+        "author":  "Συλλογικό έργο",
+        "coauthors":  "",
+        "series":  "Ανθολόγημα διηγημάτων επιστημονικής φαντασίας",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Παρά Πέντε",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Συλλογικό έργο· επιμέλεια μη αναγνωσμένη."
+    },
+    {
+        "id":  "B039",
+        "title":  "Η πόλη και τ’ άστρα",
+        "author":  "Arthur C. Clarke",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B040",
+        "title":  "Η πτώση του Υπερίωνα",
+        "author":  "Dan Simmons",
+        "coauthors":  "",
+        "series":  "Hyperion Cantos",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B041",
+        "title":  "Ναυάγιο στη Σελήνη",
+        "author":  "Arthur C. Clarke",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B042",
+        "title":  "Ξένος σε ξένη χώρα",
+        "author":  "Robert A. Heinlein",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B043",
+        "title":  "Ο πόλεμος των κόσμων",
+        "author":  "H. G. Wells",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B044",
+        "title":  "Οι επικυρίαρχοι",
+        "author":  "Arthur C. Clarke",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B045",
+        "title":  "Ούμπικ",
+        "author":  "Philip K. Dick",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B046",
+        "title":  "Σκέψου σαν δεινόσαυρος και άλλα διηγήματα",
+        "author":  "Συλλογικό έργο",
+        "coauthors":  "",
+        "series":  "Ανθολόγημα διηγημάτων επιστημονικής φαντασίας",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Παρά Πέντε",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Συλλογικό έργο· επιμέλεια μη αναγνωσμένη."
+    },
+    {
+        "id":  "B047",
+        "title":  "Υπερίων",
+        "author":  "Dan Simmons",
+        "coauthors":  "",
+        "series":  "Hyperion Cantos",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B048",
+        "title":  "And Another Thing…",
+        "author":  "Eoin Colfer",
+        "coauthors":  "",
+        "series":  "The Hitchhiker’s Guide to the Galaxy",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B049",
+        "title":  "Backwards",
+        "author":  "Rob Grant",
+        "coauthors":  "",
+        "series":  "Red Dwarf",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B050",
+        "title":  "Death’s End",
+        "author":  "Cixin Liu",
+        "coauthors":  "",
+        "series":  "Remembrance of Earth\u0027s Past",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Head of Zeus",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B051",
+        "title":  "Dune",
+        "author":  "Frank Herbert",
+        "coauthors":  "",
+        "series":  "Dune",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B052",
+        "title":  "Foundation and Empire",
+        "author":  "Isaac Asimov",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B053",
+        "title":  "Golden Son",
+        "author":  "Pierce Brown",
+        "coauthors":  "",
+        "series":  "Red Rising",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Hodder \u0026 Stoughton",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B054",
+        "title":  "Last Human",
+        "author":  "Doug Naylor",
+        "coauthors":  "",
+        "series":  "Red Dwarf",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B055",
+        "title":  "Morning Star",
+        "author":  "Pierce Brown",
+        "coauthors":  "",
+        "series":  "Red Rising",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Hodder \u0026 Stoughton",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B056",
+        "title":  "Nightfall",
+        "author":  "Isaac Asimov",
+        "coauthors":  "Robert Silverberg",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Το μυθιστόρημα Nightfall είναι συνδημιουργία Isaac Asimov και Robert Silverberg· και τα δύο ονόματα διαβάζονται στη ράχη."
+    },
+    {
+        "id":  "B057",
+        "title":  "Red Dwarf Omnibus",
+        "author":  "Grant Naylor",
+        "coauthors":  "",
+        "series":  "Red Dwarf",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Omnibus· ένας φυσικός τόμος."
+    },
+    {
+        "id":  "B058",
+        "title":  "Red Rising",
+        "author":  "Pierce Brown",
+        "coauthors":  "",
+        "series":  "Red Rising",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Hodder \u0026 Stoughton",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B059",
+        "title":  "Star Wars: Fate of the Jedi – Outcast",
+        "author":  "Aaron Allston",
+        "coauthors":  "",
+        "series":  "Star Wars",
+        "subseries":  "Fate of the Jedi",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B060",
+        "title":  "The Hitchhiker’s Guide to the Galaxy",
+        "author":  "Douglas Adams",
+        "coauthors":  "",
+        "series":  "The Hitchhiker’s Guide to the Galaxy",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B061",
+        "title":  "The Martian",
+        "author":  "Andy Weir",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B062",
+        "title":  "The Three-Body Problem",
+        "author":  "Cixin Liu",
+        "coauthors":  "",
+        "series":  "Remembrance of Earth\u0027s Past",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Head of Zeus",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B063",
+        "title":  "VALIS",
+        "author":  "Philip K. Dick",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά [?]",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "PARSEC",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B064",
+        "title":  "Sapiens — Η γέννηση του ανθρώπου",
+        "author":  "Yuval Noah Harari",
+        "coauthors":  "David Vandermeulen; Daniel Casanave",
+        "series":  "Sapiens — εικονογραφημένη έκδοση",
+        "subseries":  "",
+        "volume":  "1",
+        "language":  "Ελληνικά",
+        "category":  "Ιστορία / κόμικς",
+        "publisher":  "Αλεξάνδρεια",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B065",
+        "title":  "Sapiens — Οι αρχιτέκτονες της ιστορίας",
+        "author":  "Yuval Noah Harari",
+        "coauthors":  "David Vandermeulen; Daniel Casanave",
+        "series":  "Sapiens — εικονογραφημένη έκδοση",
+        "subseries":  "",
+        "volume":  "3",
+        "language":  "Ελληνικά",
+        "category":  "Ιστορία / κόμικς",
+        "publisher":  "Αλεξάνδρεια",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B066",
+        "title":  "Sapiens — Τα θεμέλια του πολιτισμού",
+        "author":  "Yuval Noah Harari",
+        "coauthors":  "David Vandermeulen; Daniel Casanave",
+        "series":  "Sapiens — εικονογραφημένη έκδοση",
+        "subseries":  "",
+        "volume":  "2",
+        "language":  "Ελληνικά",
+        "category":  "Ιστορία / κόμικς",
+        "publisher":  "Αλεξάνδρεια",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B067",
+        "title":  "Μπαρμπαρόσα",
+        "author":  "Γιώργος Λεονάρδος",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Ιστορικό μυθιστόρημα",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B068",
+        "title":  "Persepolis 2",
+        "author":  "Marjane Satrapi",
+        "coauthors":  "",
+        "series":  "Persepolis",
+        "subseries":  "",
+        "volume":  "2",
+        "language":  "Μη εξακριβωμένη",
+        "category":  "Κόμικς / αυτοβιογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B069",
+        "title":  "Το νούμερο 31328",
+        "author":  "Ηλίας Βενέζης",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Μαρτυρία / πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B070",
+        "title":  "Άγνωστες δυνάμεις",
+        "author":  "Arthur C. Clarke",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Μη μυθοπλασία / ανεξήγητα",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B071",
+        "title":  "Τα μυστήρια του κόσμου",
+        "author":  "Arthur C. Clarke",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Μη μυθοπλασία / ανεξήγητα",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B072",
+        "title":  "Βέλη και κρόκινες φλόγες",
+        "author":  "Ελευθέριος Κεραμίδας",
+        "coauthors":  "",
+        "series":  "Οι γιοι της στάχτης",
+        "subseries":  "",
+        "volume":  "2",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Τόμος 2 της τριλογίας «Οι γιοι της στάχτης». Διορθώθηκαν τίτλος, συγγραφέας και κατηγορία."
+    },
+    {
+        "id":  "B073",
+        "title":  "Δρυς με φύλλα σμαράγδια",
+        "author":  "Ελευθέριος Κεραμίδας",
+        "coauthors":  "",
+        "series":  "Οι γιοι της στάχτης",
+        "subseries":  "",
+        "volume":  "3",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Τόμος 3 της τριλογίας «Οι γιοι της στάχτης». Διορθώθηκαν τίτλος, συγγραφέας και κατηγορία."
+    },
+    {
+        "id":  "B074",
+        "title":  "Ταξιδεύοντας στον χρόνο: Φθία Θεσσαλίας",
+        "author":  "Ταξιάρχης Τσιόγκας",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Μη μυθοπλασία / λοιπά",
+        "publisher":  "Δωδώνη",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Διορθώθηκε το όνομα του συγγραφέα και συμπληρώθηκε ο υπότιτλος από τον εκδότη. Θέμα: ανεξήγητα / ψυχοτηλεραδιαίσθηση."
+    },
+    {
+        "id":  "B075",
+        "title":  "Οι πέντε φίλοι σε διακοπές",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "10",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 10 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B076",
+        "title":  "Οι πέντε φίλοι πηγαίνουν στη θάλασσα",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "12",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 12 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B077",
+        "title":  "Οι πέντε φίλοι πηγαίνουν στο βάλτο του μυστηρίου",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "13",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 13 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B078",
+        "title":  "Οι πέντε φίλοι διασκεδάζουν",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "14",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 14 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B079",
+        "title":  "Οι πέντε φίλοι στο λόφο του Μπίλικοκ",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "16",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 16 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B080",
+        "title":  "Οι πέντε φίλοι σε δυσκολίες",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "17",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 17 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B081",
+        "title":  "Οι πέντε φίλοι στο κτήμα του Φίνιστον",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "18",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 18 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B082",
+        "title":  "Οι πέντε φίλοι στο Ντίμον Ροκ",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Οι πέντε φίλοι",
+        "subseries":  "",
+        "volume":  "19",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "Gutenberg",
+        "identification":  "Ταυτοποιημένος από σειρά και αριθμό",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  "Ο τίτλος συμπληρώθηκε από τον αριθμό 19 που διαβάζεται στη ράχη, με βάση τον κατάλογο της έκδοσης Gutenberg."
+    },
+    {
+        "id":  "B083",
+        "title":  "Περιπέτεια στην κοιλάδα",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Σειρά Περιπέτειας",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B084",
+        "title":  "Περιπέτεια στο κάστρο",
+        "author":  "Enid Blyton",
+        "coauthors":  "",
+        "series":  "Σειρά Περιπέτειας",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B085",
+        "title":  "Το βιβλίο του νεκροταφείου",
+        "author":  "Neil Gaiman",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B086",
+        "title":  "Το καπλάνι της βιτρίνας",
+        "author":  "Άλκη Ζέη",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Παιδικό / νεανικό",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B087",
+        "title":  "So You Want to Be a Game Master",
+        "author":  "Justin Alexander",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Παιχνίδια ρόλων",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B088",
+        "title":  "Άπαντα 10",
+        "author":  "Γρηγόριος Ξενόπουλος",
+        "coauthors":  "",
+        "series":  "Άπαντα Ξενόπουλου",
+        "subseries":  "",
+        "volume":  "10",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "Μπίρης",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B089",
+        "title":  "Η κόλαση",
+        "author":  "Henri Barbusse",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B090",
+        "title":  "Η μεταμόρφωση",
+        "author":  "Franz Kafka",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B091",
+        "title":  "Η χαμένη",
+        "author":  "Μ. Καραγάτσης",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B092",
+        "title":  "Ημερολόγιο μιας κακής χρονιάς",
+        "author":  "J. M. Coetzee",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B093",
+        "title":  "Τα δύσκολα χρόνια",
+        "author":  "Charles Dickens",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B094",
+        "title":  "Το κιβώτιο",
+        "author":  "Άρης Αλεξάνδρου",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B095",
+        "title":  "Τρεις άδειες καρέκλες",
+        "author":  "Γιάννης Σκαρίμπας",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  "Στη ράχη φαίνεται αριθμός εκδοτικής σειράς 10."
+    },
+    {
+        "id":  "B096",
+        "title":  "Illuminations",
+        "author":  "Alan Moore",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B097",
+        "title":  "Room",
+        "author":  "Emma Donoghue",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Πεζογραφία",
+        "publisher":  "Picador",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B098",
+        "title":  "The Wall Around the World and Other Science Fiction Stories",
+        "author":  "Συλλογικό έργο",
+        "coauthors":  "Susan Morris (επιμέλεια)",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Επιστημονική φαντασία",
+        "publisher":  "Longman",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Ανθολογία επιστημονικής φαντασίας σε επιμέλεια Susan Morris. Το Morris στη ράχη αφορά την επιμελήτρια."
+    },
+    {
+        "id":  "B099",
+        "title":  "Διηγήσεις",
+        "author":  "Edgar Allan Poe",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Τρόμος / παράδοξο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B100",
+        "title":  "Ιστορίες από τη σκοτεινή γωνιά του δωματίου",
+        "author":  "Αντώνης Μαμωνάς",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Τρόμος / παράδοξο",
+        "publisher":  "Writing Nook",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  "Το επώνυμο διορθώθηκε από τη ράχη της IMG_9643 (ΜΑΜΩΝΑΣ). Η online εγγραφή επιβεβαιώνει τίτλο και εκδότη, αλλά δεν αναγράφει συγγραφέα."
+    },
+    {
+        "id":  "B101",
+        "title":  "Ο βασιλιάς με τα κίτρινα",
+        "author":  "Robert W. Chambers",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Τρόμος / παράδοξο",
+        "publisher":  "Αίολος",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B102",
+        "title":  "Frankenstein",
+        "author":  "Mary Shelley",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Τρόμος / παράδοξο",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B103",
+        "title":  "Ατσαλόκαρδος",
+        "author":  "Brandon Sanderson",
+        "coauthors":  "",
+        "series":  "The Reckoners",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "Μεταίχμιο",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B104",
+        "title":  "Δράκοι στη χειμωνιάτικη νύχτα",
+        "author":  "Margaret Weis",
+        "coauthors":  "Tracy Hickman",
+        "series":  "Dragonlance",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B105",
+        "title":  "Δράκων: Γέννηση",
+        "author":  "Χρήστος Α. Κασκαβέλης",
+        "coauthors":  "",
+        "series":  "Δράκων",
+        "subseries":  "",
+        "volume":  "1",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "Mamaya",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Πρώτος τόμος του Δράκων. Αντιστοίχιση με τα εικαστικά των δύο τόμων στη φωτογραφία."
+    },
+    {
+        "id":  "B106",
+        "title":  "Δράκων: Μεταμόρφωση",
+        "author":  "Χρήστος Α. Κασκαβέλης",
+        "coauthors":  "",
+        "series":  "Δράκων",
+        "subseries":  "",
+        "volume":  "2",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "Mamaya",
+        "identification":  "Ταυτοποιημένος από φωτογραφία και πηγή",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Δεύτερος τόμος του Δράκων. Η πεταλούδα στη ράχη αντιστοιχεί στο εξώφυλλο της Μεταμόρφωσης."
+    },
+    {
+        "id":  "B107",
+        "title":  "Τιμωρός: Δρακοσπηλιά",
+        "author":  "Νίκος Βιτωλιώτης",
+        "coauthors":  "",
+        "series":  "Τιμωρός",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Ιστορικό μυθιστόρημα",
+        "publisher":  "Tales",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  "Επιβεβαιώθηκε το όνομα του συγγραφέα. Ιστορικό μυθιστόρημα με φανταστικά στοιχεία."
+    },
+    {
+        "id":  "B108",
+        "title":  "Ο μάγος της Γαιοθάλασσας",
+        "author":  "Ursula K. Le Guin",
+        "coauthors":  "",
+        "series":  "Earthsea",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B109",
+        "title":  "Το Σιλμαρίλλιον",
+        "author":  "J. R. R. Tolkien",
+        "coauthors":  "",
+        "series":  "Μέση Γη",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Ελληνικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B110",
+        "title":  "A Clash of Kings",
+        "author":  "George R. R. Martin",
+        "coauthors":  "",
+        "series":  "A Song of Ice and Fire",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B111",
+        "title":  "A Dance with Dragons",
+        "author":  "George R. R. Martin",
+        "coauthors":  "",
+        "series":  "A Song of Ice and Fire",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B112",
+        "title":  "A Feast for Crows",
+        "author":  "George R. R. Martin",
+        "coauthors":  "",
+        "series":  "A Song of Ice and Fire",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B113",
+        "title":  "A Game of Thrones",
+        "author":  "George R. R. Martin",
+        "coauthors":  "",
+        "series":  "A Song of Ice and Fire",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B114",
+        "title":  "A Hat Full of Sky",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Tiffany Aching",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Corgi",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B115",
+        "title":  "A Storm of Swords — Blood and Gold",
+        "author":  "George R. R. Martin",
+        "coauthors":  "",
+        "series":  "A Song of Ice and Fire",
+        "subseries":  "",
+        "volume":  "Βιβλίο 3, μέρος 2",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B116",
+        "title":  "A Storm of Swords — Steel and Snow",
+        "author":  "George R. R. Martin",
+        "coauthors":  "",
+        "series":  "A Song of Ice and Fire",
+        "subseries":  "",
+        "volume":  "Βιβλίο 3, μέρος 1",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B117",
+        "title":  "American Gods",
+        "author":  "Neil Gaiman",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B118",
+        "title":  "Beren and Lúthien",
+        "author":  "J. R. R. Tolkien",
+        "coauthors":  "",
+        "series":  "Μέση Γη",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B119",
+        "title":  "Chronicles of the Black Company",
+        "author":  "Glen Cook",
+        "coauthors":  "",
+        "series":  "The Black Company",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  "Συγκεντρωτικός τόμος· μία φυσική εγγραφή."
+    },
+    {
+        "id":  "B120",
+        "title":  "Darkvision",
+        "author":  "Bruce R. Cordell",
+        "coauthors":  "",
+        "series":  "Forgotten Realms",
+        "subseries":  "The Wizards",
+        "volume":  "3",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Επιβεβαιώθηκε το πλήρες όνομα του συγγραφέα. Τρίτο βιβλίο της υποσειράς The Wizards."
+    },
+    {
+        "id":  "B121",
+        "title":  "Equal Rites",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Witches",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B122",
+        "title":  "Faust Eric",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Rincewind",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B123",
+        "title":  "Gamenight",
+        "author":  "Jonny Nexus",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B124",
+        "title":  "Going Postal",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Moist von Lipwig",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B125",
+        "title":  "Good Omens",
+        "author":  "Terry Pratchett",
+        "coauthors":  "Neil Gaiman",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B126",
+        "title":  "Guards! Guards!",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "City Watch",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Corgi",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B127",
+        "title":  "I Shall Wear Midnight",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Tiffany Aching",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B128",
+        "title":  "Interesting Times",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Rincewind",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B129",
+        "title":  "Kender, Gully Dwarves, and Gnomes",
+        "author":  "Margaret Weis",
+        "coauthors":  "Tracy Hickman",
+        "series":  "Dragonlance",
+        "subseries":  "Tales",
+        "volume":  "II",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9640"
+                   ],
+        "notes":  "Συλλογή διηγημάτων· τα ονόματα δηλώνουν επιμέλεια."
+    },
+    {
+        "id":  "B130",
+        "title":  "Kushiel’s Avatar",
+        "author":  "Jacqueline Carey",
+        "coauthors":  "",
+        "series":  "Kushiel’s Legacy",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Tor",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B131",
+        "title":  "Kushiel’s Chosen",
+        "author":  "Jacqueline Carey",
+        "coauthors":  "",
+        "series":  "Kushiel’s Legacy",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Tor",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B132",
+        "title":  "Kushiel’s Dart",
+        "author":  "Jacqueline Carey",
+        "coauthors":  "",
+        "series":  "Kushiel’s Legacy",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Tor",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B133",
+        "title":  "Last Argument of Kings",
+        "author":  "Joe Abercrombie",
+        "coauthors":  "",
+        "series":  "The First Law",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B134",
+        "title":  "Making Money",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Moist von Lipwig",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B135",
+        "title":  "Men at Arms",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "City Watch",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B136",
+        "title":  "MirrorMask",
+        "author":  "Neil Gaiman",
+        "coauthors":  "Dave McKean",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Bloomsbury",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B137",
+        "title":  "Mort",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Death",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B138",
+        "title":  "Moving Pictures",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Corgi",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B139",
+        "title":  "Nation",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Doubleday",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B140",
+        "title":  "Neverwhere",
+        "author":  "Neil Gaiman",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B141",
+        "title":  "Prince of Lies",
+        "author":  "James Lowder",
+        "coauthors":  "",
+        "series":  "Forgotten Realms",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B142",
+        "title":  "Reaper Man",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Death",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B143",
+        "title":  "Relics and Omens",
+        "author":  "Margaret Weis",
+        "coauthors":  "Tracy Hickman",
+        "series":  "Dragonlance",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Συλλογή· τα ονόματα δηλώνουν επιμέλεια."
+    },
+    {
+        "id":  "B144",
+        "title":  "Small Gods",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B145",
+        "title":  "Sourcery",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Rincewind",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B146",
+        "title":  "Stardust",
+        "author":  "Neil Gaiman",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B147",
+        "title":  "The Amazing Maurice and His Educated Rodents",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B148",
+        "title":  "The Blade Itself",
+        "author":  "Joe Abercrombie",
+        "coauthors":  "",
+        "series":  "The First Law",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B149",
+        "title":  "The Books of the South",
+        "author":  "Glen Cook",
+        "coauthors":  "",
+        "series":  "The Black Company",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  "Συγκεντρωτικός τόμος· μία φυσική εγγραφή."
+    },
+    {
+        "id":  "B150",
+        "title":  "The Colour of Magic",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Rincewind",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B151",
+        "title":  "The Devils",
+        "author":  "Joe Abercrombie",
+        "coauthors":  "",
+        "series":  "",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B152",
+        "title":  "The Doom Brigade",
+        "author":  "Margaret Weis",
+        "coauthors":  "Don Perrin",
+        "series":  "Dragonlance",
+        "subseries":  "The Chaos War",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9640"
+                   ],
+        "notes":  "Συμπληρώθηκαν τα πλήρη ονόματα των δύο συγγραφέων."
+    },
+    {
+        "id":  "B153",
+        "title":  "The Dragons of Krynn",
+        "author":  "Margaret Weis",
+        "coauthors":  "Tracy Hickman",
+        "series":  "Dragonlance",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  "Συλλογή· τα ονόματα δηλώνουν επιμέλεια."
+    },
+    {
+        "id":  "B154",
+        "title":  "The Last Thane",
+        "author":  "Douglas Niles",
+        "coauthors":  "",
+        "series":  "Dragonlance",
+        "subseries":  "The Chaos War",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B155",
+        "title":  "The Light Fantastic",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Rincewind",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B156",
+        "title":  "The Long Dark Tea-Time of the Soul",
+        "author":  "Douglas Adams",
+        "coauthors":  "",
+        "series":  "Dirk Gently",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B157",
+        "title":  "The Return of the Black Company",
+        "author":  "Glen Cook",
+        "coauthors":  "",
+        "series":  "The Black Company",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9643"
+                   ],
+        "notes":  "Συγκεντρωτικός τόμος· μία φυσική εγγραφή."
+    },
+    {
+        "id":  "B158",
+        "title":  "The Second Generation",
+        "author":  "Margaret Weis",
+        "coauthors":  "Tracy Hickman",
+        "series":  "Dragonlance",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B159",
+        "title":  "The Wee Free Men",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Tiffany Aching",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Corgi",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B160",
+        "title":  "Thief of Time",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Death",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B161",
+        "title":  "Thud!",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "City Watch",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B162",
+        "title":  "Triss",
+        "author":  "Brian Jacques",
+        "coauthors":  "",
+        "series":  "Redwall",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B163",
+        "title":  "Unseen Academicals",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9638",
+                       "IMG_9639",
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B164",
+        "title":  "Vinas Solamnus",
+        "author":  "J. Robert King",
+        "coauthors":  "",
+        "series":  "Dragonlance",
+        "subseries":  "Lost Legends",
+        "volume":  "I",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9640"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B165",
+        "title":  "Wintersmith",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Tiffany Aching",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Corgi",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    },
+    {
+        "id":  "B166",
+        "title":  "Witches Abroad",
+        "author":  "Terry Pratchett",
+        "coauthors":  "",
+        "series":  "Discworld",
+        "subseries":  "Witches",
+        "volume":  "",
+        "language":  "Αγγλικά",
+        "category":  "Φαντασία",
+        "publisher":  "Corgi",
+        "identification":  "Αναγνώσιμος κύριος τίτλος",
+        "photos":  [
+                       "IMG_9643"
+                   ],
+        "notes":  ""
+    }
+]

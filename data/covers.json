@@ -1,0 +1,534 @@
+{
+    "B096":  {
+                 "source":  "openlibrary:/works/OL25473339W",
+                 "matched":  "Illuminations"
+             },
+    "B150":  {
+                 "source":  "openlibrary:/works/OL453657W",
+                 "matched":  "The Colour of Magic"
+             },
+    "B093":  {
+                 "source":  "biblionet:/τα-δυσκολα-χρονια-83905",
+                 "matched":  "Τα δύσκολα χρόνια / Charles Dickens"
+             },
+    "B061":  {
+                 "source":  "openlibrary:/works/OL17091839W",
+                 "matched":  "The Martian"
+             },
+    "B141":  {
+                 "source":  "openlibrary:/works/OL6039753W",
+                 "matched":  "Prince of Lies"
+             },
+    "B032":  {
+                 "source":  "biblionet:/2010:-οδυσσεια-δυο-336341",
+                 "matched":  "2010: Οδύσσεια δύο / Arthur C. Clarke"
+             },
+    "B004":  {
+                 "source":  "biblionet:/ο-χιονανθρωπος-552311",
+                 "matched":  "Ο χιονάνθρωπος / Jo Nesbø"
+             },
+    "B009":  {
+                 "source":  "biblionet:/το-μαυρο-μονοπατι-380259",
+                 "matched":  "Το μαύρο μονοπάτι / Åsa Larsson"
+             },
+    "B059":  {
+                 "source":  "openlibrary:/works/OL3567794W",
+                 "matched":  "Star Wars - Fate of the Jedi - Outcast"
+             },
+    "B115":  {
+                 "source":  "openlibrary:/works/OL257914W",
+                 "matched":  "A Storm of Swords"
+             },
+    "B014":  {
+                 "source":  "biblionet:/φαδερ-ημων-204261",
+                 "matched":  "Φάδερ ημών / Μάνος Βουράκης"
+             },
+    "B075":  {
+                 "source":  "biblionet:/οι-πεντε-φιλοι-σε-διακοπες-67513",
+                 "matched":  "Οι πέντε φίλοι σε διακοπές / Enid Blyton"
+             },
+    "B039":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/epistimoniki-fantasia/i-poli-ke-t-astra-0081871",
+                 "matched":  "Η ΠΟΛΗ ΚΑΙ Τ\u0027 ΑΣΤΡΑ / ΚΛΑΡΚ ΑΡΘΟΥΡ"
+             },
+    "B154":  {
+                 "source":  "openlibrary:/works/OL1635389W",
+                 "matched":  "The Last Thane"
+             },
+    "B104":  {
+                 "source":  "biblionet:/δρακοι-στη-χειμωνιατικη-νυχτα-265621",
+                 "matched":  "Δράκοι στη χειμωνιάτικη νύχτα / Margaret Weis"
+             },
+    "B036":  {
+                 "source":  "biblionet:/γαλαξιακη-αυτοκρατορια-3-84707",
+                 "matched":  "Γαλαξιακή αυτοκρατορία 3 / Isaac Asimov"
+             },
+    "B044":  {
+                 "source":  "biblionet:/οι-επικυριαρχοι-84809",
+                 "matched":  "Οι επικυρίαρχοι / Arthur C. Clarke"
+             },
+    "B113":  {
+                 "source":  "openlibrary:/works/OL257943W",
+                 "matched":  "A Game of Thrones"
+             },
+    "B124":  {
+                 "source":  "openlibrary:/works/OL453733W",
+                 "matched":  "Going Postal"
+             },
+    "B047":  {
+                 "source":  "biblionet:/υπεριων-511979",
+                 "matched":  "Υπερίων / Dan Simmons"
+             },
+    "B162":  {
+                 "source":  "openlibrary:/works/OL465898W",
+                 "matched":  "Triss"
+             },
+    "B161":  {
+                 "source":  "openlibrary:/works/OL453852W",
+                 "matched":  "Thud!"
+             },
+    "B078":  {
+                 "source":  "biblionet:/οι-πεντε-φιλοι-διασκεδαζουν-67493",
+                 "matched":  "Οι πέντε φίλοι διασκεδάζουν / Enid Blyton"
+             },
+    "B148":  {
+                 "source":  "openlibrary:/works/OL8400950W",
+                 "matched":  "The Blade Itself"
+             },
+    "B140":  {
+                 "source":  "openlibrary:/works/OL679333W",
+                 "matched":  "Neverwhere"
+             },
+    "B131":  {
+                 "source":  "openlibrary:/works/OL2719906W",
+                 "matched":  "Kushiel\u0027s chosen"
+             },
+    "B043":  {
+                 "source":  "biblionet:/ο-πολεμος-των-κοσμων-465205",
+                 "matched":  "Ο πόλεμος των κόσμων / Herbert George Wells"
+             },
+    "B146":  {
+                 "source":  "openlibrary:/works/OL15833328W",
+                 "matched":  "Stardust"
+             },
+    "B153":  {
+                 "source":  "openlibrary:/works/OL15108456W",
+                 "matched":  "The Dragons of Krynn"
+             },
+    "B024":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/elliniki-logotechnia/deepfake-0568665",
+                 "matched":  "DEEPFAKE / ΜΑΛΑΦΕΚΑΣ ΜΑΚΗΣ"
+             },
+    "B097":  {
+                 "source":  "openlibrary:/works/OL15212619W",
+                 "matched":  "Room"
+             },
+    "B067":  {
+                 "source":  "biblionet:/μπαρμπαροσα-397939",
+                 "matched":  "Μπαρμπαρόσα / Γιώργος Λεονάρδος"
+             },
+    "B159":  {
+                 "source":  "openlibrary:/works/OL453748W",
+                 "matched":  "The Wee Free Men"
+             },
+    "B164":  {
+                 "source":  "openlibrary:/works/OL15288299W",
+                 "matched":  "Vinas Solamnus"
+             },
+    "B072":  {
+                 "source":  "biblionet:/βελη-και-κροκινες-φλογες-436519",
+                 "matched":  "Βέλη και κρόκινες φλόγες / Ελευθέριος Κεραμίδας"
+             },
+    "B137":  {
+                 "source":  "openlibrary:/works/OL453658W",
+                 "matched":  "Mort"
+             },
+    "B054":  {
+                 "source":  "openlibrary:/works/OL262799W",
+                 "matched":  "Last Human"
+             },
+    "B121":  {
+                 "source":  "openlibrary:/works/OL453670W",
+                 "matched":  "Equal Rites"
+             },
+    "B134":  {
+                 "source":  "openlibrary:/works/OL453907W",
+                 "matched":  "Making Money"
+             },
+    "B050":  {
+                 "source":  "openlibrary:/works/OL17610507W",
+                 "matched":  "Death\u0027s End (The Three-Body Problem Series Book 3)"
+             },
+    "B033":  {
+                 "source":  "biblionet:/αποστολη-χαιρε-μαρια-532261",
+                 "matched":  "Αποστολή Χαίρε Μαρία / Andy Weir"
+             },
+    "B005":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/astunomiki-logotechnia/pente-mikra-gourounakia-0453655",
+                 "matched":  "ΠΕΝΤΕ ΜΙΚΡΑ ΓΟΥΡΟΥΝΑΚΙΑ / ΚΡΙΣΤΙ ΑΓΚΑΘΑ"
+             },
+    "B083":  {
+                 "source":  "ianos:https://www.ianos.gr/books/paidika/paidiki-logotechnia/metaframeni-logotechnia/peripetia-stin-kilada-0479727",
+                 "matched":  "ΠΕΡΙΠΕΤΕΙΑ ΣΤΗΝ ΚΟΙΛΑΔΑ / ΜΠΛΑΙΤΟΝ ΕΝΙΝΤ"
+             },
+    "B155":  {
+                 "source":  "openlibrary:/works/OL453680W",
+                 "matched":  "The Light Fantastic"
+             },
+    "B147":  {
+                 "source":  "openlibrary:/works/OL453885W",
+                 "matched":  "The Amazing Maurice and His Educated Rodents"
+             },
+    "B156":  {
+                 "source":  "openlibrary:/works/OL2163629W",
+                 "matched":  "The Long Dark Tea-Time of the Soul"
+             },
+    "B127":  {
+                 "source":  "openlibrary:/works/OL14929052W",
+                 "matched":  "I Shall Wear Midnight"
+             },
+    "B002":  {
+                 "source":  "biblionet:/ιλιγγος-379487",
+                 "matched":  "Ίλιγγος / Γιάννης Μαρής"
+             },
+    "B074":  {
+                 "source":  "ianos:https://www.ianos.gr/books/epistimes/istoria/topiki-istoria/taxidevontas-ston-chrono-fthia-thessalias-0080467",
+                 "matched":  "ΤΑΞΙΔΕΥΟΝΤΑΣ ΣΤΟΝ ΧΡΟΝΟ-ΦΘΙΑ ΘΕΣΣΑΛΙΑΣ / ΤΣΙΟΓΚΑΣ ΤΑΞΙΑΡΧΗΣ"
+             },
+    "B049":  {
+                 "source":  "openlibrary:/works/OL262801W",
+                 "matched":  "Backwards (Red Dwarf)"
+             },
+    "B139":  {
+                 "source":  "openlibrary:/works/OL453807W",
+                 "matched":  "Nation"
+             },
+    "B129":  {
+                 "source":  "openlibrary:/works/OL15108348W",
+                 "matched":  "Kender, Gully Dwarves and Gnomes"
+             },
+    "B013":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/pagkosmia-logotechnia/to-chameno-simvolo-0329451",
+                 "matched":  "ΤΟ ΧΑΜΕΝΟ ΣΥΜΒΟΛΟ / ΜΠΡΑΟΥΝ ΝΤΑΝ"
+             },
+    "B069":  {
+                 "source":  "biblionet:/το-νουμερο-31328-439367",
+                 "matched":  "Το νούμερο 31328 / Ηλίας Βενέζης"
+             },
+    "B132":  {
+                 "source":  "openlibrary:/works/OL2719901W",
+                 "matched":  "Kushiel\u0027s dart"
+             },
+    "B042":  {
+                 "source":  "biblionet:/ξενος-σε-ξενη-χωρα-13959",
+                 "matched":  "Ξένος σε ξένη χώρα / Robert Heinlein"
+             },
+    "B160":  {
+                 "source":  "openlibrary:/works/OL453686W",
+                 "matched":  "Thief of Time"
+             },
+    "B095":  {
+                 "source":  "biblionet:/τρεις-αδειες-καρεκλες-1393",
+                 "matched":  "Τρεις άδειες καρέκλες / Γιάννης Σκαρίμπας"
+             },
+    "B011":  {
+                 "source":  "biblionet:/το-μυστικο-χειρογραφο-303327",
+                 "matched":  "Το μυστικό χειρόγραφο / Kate Sedley"
+             },
+    "B152":  {
+                 "source":  "openlibrary:/works/OL15108272W",
+                 "matched":  "The Doom Brigade"
+             },
+    "B012":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/pagkosmia-logotechnia/to-stichima-0508123",
+                 "matched":  "ΤΟ ΣΤΟΙΧΗΜΑ / ΝΕΒΙΛ ΚΑΘΡΙΝ"
+             },
+    "B092":  {
+                 "source":  "biblionet:/ημερολογιο-μιας-κακης-χρονιας-246733",
+                 "matched":  "Ημερολόγιο μιας κακής χρονιάς / J. M. Coetzee"
+             },
+    "B018":  {
+                 "source":  "openlibrary:/works/OL106049W",
+                 "matched":  "The Third Man and The Fallen Idol"
+             },
+    "B040":  {
+                 "source":  "biblionet:/η-πτωση-του-υπεριωνα-511977",
+                 "matched":  "Η πτώση του Υπερίωνα / Dan Simmons"
+             },
+    "B015":  {
+                 "source":  "openlibrary:/works/OL16699828W",
+                 "matched":  "Dodger"
+             },
+    "B053":  {
+                 "source":  "openlibrary:/works/OL19340986W",
+                 "matched":  "Golden Son"
+             },
+    "B016":  {
+                 "source":  "openlibrary:/works/OL2636648W",
+                 "matched":  "Inherent Vice"
+             },
+    "B116":  {
+                 "source":  "openlibrary:/works/OL257914W",
+                 "matched":  "A Storm of Swords"
+             },
+    "B135":  {
+                 "source":  "openlibrary:/works/OL453739W",
+                 "matched":  "Men at Arms"
+             },
+    "B056":  {
+                 "source":  "openlibrary:/works/OL46374W",
+                 "matched":  "Nightfall"
+             },
+    "B142":  {
+                 "source":  "openlibrary:/works/OL453654W",
+                 "matched":  "Reaper Man"
+             },
+    "B108":  {
+                 "source":  "biblionet:/ο-μάγος-της-γαιοθάλασσας-303867",
+                 "matched":  "Ο μάγος της Γαιοθάλασσας / Ursula K. Le Guin"
+             },
+    "B087":  {
+                 "source":  "openlibrary:/works/OL31134048W",
+                 "matched":  "So You Want to Be a Game Master?"
+             },
+    "B105":  {
+                 "source":  "biblionet:/δρακων:-γεννηση-395889",
+                 "matched":  "Δράκων: Γέννηση / Χρήστος Κασκαβέλης"
+             },
+    "B145":  {
+                 "source":  "openlibrary:/works/OL453659W",
+                 "matched":  "Sourcery"
+             },
+    "B082":  {
+                 "source":  "biblionet:/οι-πεντε-φιλοι-στο-ντιμον-ροκ-67507",
+                 "matched":  "Οι πέντε φίλοι στο Ντίμον Ροκ / Enid Blyton"
+             },
+    "B106":  {
+                 "source":  "biblionet:/δρακων:-μεταμορφωση-403347",
+                 "matched":  "Δράκων: Μεταμόρφωση / Χρήστος Κασκαβέλης"
+             },
+    "B079":  {
+                 "source":  "biblionet:/οι-πεντε-φιλοι-στο-λοφο-του-μπιλικοκ-86273",
+                 "matched":  "Οι πέντε φίλοι στο λόφο του Μπίλικοκ / Enid Blyton"
+             },
+    "B052":  {
+                 "source":  "openlibrary:/works/OL46224W",
+                 "matched":  "Foundation and Empire"
+             },
+    "B084":  {
+                 "source":  "biblionet:/περιπετεια-στο-καστρο-468371",
+                 "matched":  "Περιπέτεια στο κάστρο / Enid Blyton"
+             },
+    "B023":  {
+                 "source":  "biblionet:/κορακι-σε-αλικο-φοντο-436513",
+                 "matched":  "Κοράκι σε άλικο φόντο / Ελευθέριος Κεραμίδας"
+             },
+    "B070":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/epistimoniki-fantasia/agnostes-dinamis-0081878",
+                 "matched":  "ΑΓΝΩΣΤΕΣ ΔΥΝΑΜΕΙΣ / ΚΛΑΡΚ ΑΡΘΟΥΡ"
+             },
+    "B003":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/pagkosmia-logotechnia/kodikas-da-vinci-0329450",
+                 "matched":  "ΚΩΔΙΚΑΣ DA VINCI / ΜΠΡΑΟΥΝ ΝΤΑΝ"
+             },
+    "B125":  {
+                 "source":  "openlibrary:/works/OL453936W",
+                 "matched":  "Good Omens"
+             },
+    "B048":  {
+                 "source":  "openlibrary:/works/OL5725953W",
+                 "matched":  "And Another Thing…"
+             },
+    "B080":  {
+                 "source":  "biblionet:/οι-πεντε-φιλοι-σε-δυσκολιες-67499",
+                 "matched":  "Οι πέντε φίλοι σε δυσκολίες / Enid Blyton"
+             },
+    "B128":  {
+                 "source":  "openlibrary:/works/OL453707W",
+                 "matched":  "Interesting Times"
+             },
+    "B085":  {
+                 "source":  "biblionet:/το-βιβλιο-του-νεκροταφειου-321921",
+                 "matched":  "Το βιβλίο του νεκροταφείου / Neil Gaiman"
+             },
+    "B133":  {
+                 "source":  "openlibrary:/works/OL8400952W",
+                 "matched":  "Last Argument of Kings"
+             },
+    "B041":  {
+                 "source":  "biblionet:/ναυαγιο-στη-σεληνη-84741",
+                 "matched":  "Ναυάγιο στη Σελήνη / Arthur C. Clarke"
+             },
+    "B117":  {
+                 "source":  "openlibrary:/works/OL679360W",
+                 "matched":  "American Gods"
+             },
+    "B071":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/epistimoniki-fantasia/ta-mistiria-tou-kosmou-0081877",
+                 "matched":  "ΤΑ ΜΥΣΤΗΡΙΑ ΤΟΥ ΚΟΣΜΟΥ / ΚΛΑΡΚ ΑΡΘΟΥΡ"
+             },
+    "B151":  {
+                 "source":  "openlibrary:/works/OL43508633W",
+                 "matched":  "The Devils"
+             },
+    "B118":  {
+                 "source":  "openlibrary:/works/OL17755218W",
+                 "matched":  "Beren and Lúthien"
+             },
+    "B094":  {
+                 "source":  "openlibrary:/works/OL5305401W",
+                 "matched":  "Το κιβώτιο"
+             },
+    "B060":  {
+                 "source":  "openlibrary:/works/OL2163649W",
+                 "matched":  "The Hitchhiker\u0027s Guide to the Galaxy"
+             },
+    "B107":  {
+                 "source":  "biblionet:/τιμωρος:-δρακοσπηλια-559683",
+                 "matched":  "Τιμωρός: Δρακοσπηλιά / Νίκος Βιτωλιώτης"
+             },
+    "B090":  {
+                 "source":  "biblionet:/η-μεταμορφωση-590845",
+                 "matched":  "Η μεταμόρφωση / Franz Kafka"
+             },
+    "B109":  {
+                 "source":  "biblionet:/το-σιλμαριλλιον-14079",
+                 "matched":  "Το Σιλμαρίλλιον / John R. R. Tolkien"
+             },
+    "B019":  {
+                 "source":  "openlibrary:/works/OL20112580W",
+                 "matched":  "Thirteen"
+             },
+    "B063":  {
+                 "source":  "openlibrary:/works/OL2172524W",
+                 "matched":  "Valis"
+             },
+    "B166":  {
+                 "source":  "openlibrary:/works/OL453668W",
+                 "matched":  "Witches Abroad"
+             },
+    "B130":  {
+                 "source":  "openlibrary:/works/OL2719904W",
+                 "matched":  "Kushiel\u0027s avatar"
+             },
+    "B017":  {
+                 "source":  "ianos:https://www.ianos.gr/books/ekmathisi-xenon-glosson/agglika/readers/sherlock-holmes-investigates-three-stories-of-detectioncd-0382073",
+                 "matched":  "SHERLOCK HOLMES INVESTIGATES THREE STORIES OF DETECTION+CD / DOYLE ARTHUR CONAN"
+             },
+    "B031":  {
+                 "source":  "biblionet:/σπαζοντας-τον-κωδικα-ντα-βιντσι-176723",
+                 "matched":  "Σπάζοντας τον κώδικα Ντα Βίντσι / Simon Cox"
+             },
+    "B136":  {
+                 "source":  "openlibrary:/works/OL679330W",
+                 "matched":  "MirrorMask"
+             },
+    "B057":  {
+                 "source":  "openlibrary:/works/OL3841514W",
+                 "matched":  "Red Dwarf Omnibus"
+             },
+    "B008":  {
+                 "source":  "biblionet:/σχεδον-νουαρ-262429",
+                 "matched":  "Σχεδόν νουάρ / Γιάννης Παπαδόπουλος"
+             },
+    "B058":  {
+                 "source":  "openlibrary:/works/OL17076473W",
+                 "matched":  "Red Rising"
+             },
+    "B086":  {
+                 "source":  "openlibrary:/works/OL2480729W",
+                 "matched":  "Το καπλάνι της βιτρίνας"
+             },
+    "B081":  {
+                 "source":  "biblionet:/οι-πεντε-φιλοι-στο-κτημα-του-φινιστον-67503",
+                 "matched":  "Οι πέντε φίλοι στο κτήμα του Φίνιστον / Enid Blyton"
+             },
+    "B111":  {
+                 "source":  "openlibrary:/works/OL1955906W",
+                 "matched":  "A Dance With Dragons"
+             },
+    "B103":  {
+                 "source":  "biblionet:/ατσαλοκαρδος-410769",
+                 "matched":  "Ατσαλόκαρδος / Brandon Sanderson"
+             },
+    "B010":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/elliniki-logotechnia/to-misos-0424211",
+                 "matched":  "ΤΟ ΜΙΣΟΣ / ΓΙΑΝΝΙΣΗΣ ΒΑΓΓΕΛΗΣ"
+             },
+    "B112":  {
+                 "source":  "openlibrary:/works/OL257948W",
+                 "matched":  "A Feast for Crows"
+             },
+    "B138":  {
+                 "source":  "openlibrary:/works/OL453749W",
+                 "matched":  "Moving Pictures"
+             },
+    "B055":  {
+                 "source":  "openlibrary:/works/OL19650409W",
+                 "matched":  "Morning Star"
+             },
+    "B077":  {
+                 "source":  "biblionet:/οι-πεντε-φιλοι-πηγαινουν-στο-βαλτο-του-μυστηριου-86271",
+                 "matched":  "Οι πέντε φίλοι πηγαίνουν στο βάλτο του μυστηρίου / Enid Blyton"
+             },
+    "B120":  {
+                 "source":  "openlibrary:/works/OL5740471W",
+                 "matched":  "Darkvision"
+             },
+    "B021":  {
+                 "source":  "biblionet:/το-ρεστοραν-στο-τελος-του-συμπαντος-554285",
+                 "matched":  "Το ρεστοράν στο τέλος του σύμπαντος / Douglas Adams"
+             },
+    "B126":  {
+                 "source":  "openlibrary:/works/OL453735W",
+                 "matched":  "Guards! Guards!"
+             },
+    "B158":  {
+                 "source":  "openlibrary:/works/OL73431W",
+                 "matched":  "The Second Generation"
+             },
+    "B144":  {
+                 "source":  "openlibrary:/works/OL453697W",
+                 "matched":  "Small Gods"
+             },
+    "B101":  {
+                 "source":  "biblionet:/ο-βασιλιας-με-τα-κιτρινα-465487",
+                 "matched":  "Ο βασιλιάς με τα κίτρινα / Robert W. Chambers"
+             },
+    "B165":  {
+                 "source":  "openlibrary:/works/OL453989W",
+                 "matched":  "Wintersmith"
+             },
+    "B051":  {
+                 "source":  "openlibrary:/works/OL893414W",
+                 "matched":  "Dune"
+             },
+    "B114":  {
+                 "source":  "openlibrary:/works/OL453737W",
+                 "matched":  "A Hat Full of Sky"
+             },
+    "B102":  {
+                 "source":  "openlibrary:/works/OL450063W",
+                 "matched":  "Frankenstein; or, The Modern Prometheus"
+             },
+    "B007":  {
+                 "source":  "ianos:https://www.ianos.gr/books/logotechnia/elliniki-logotechnia/ston-iskio-ton-skotomenon-koritsion-0268904",
+                 "matched":  "ΣΤΟΝ ΙΣΚΙΟ ΤΩΝ ΣΚΟΤΩΜΕΝΩΝ ΚΟΡΙΤΣΙΩΝ / ΜΑΡΓΑΡΙΤΗΣ ΚΥΡΙΑΚΟΣ"
+             },
+    "B110":  {
+                 "source":  "openlibrary:/works/OL257939W",
+                 "matched":  "A Clash of Kings"
+             },
+    "B076":  {
+                 "source":  "ianos:https://www.ianos.gr/books/paidika/paidiki-logotechnia/fantasias-peripeteias/i-pente-fili-pigenoun-sti-thalassa-no-12-0182903",
+                 "matched":  "ΟΙ ΠΕΝΤΕ ΦΙΛΟΙ ΠΗΓΑΙΝΟΥΝ ΣΤΗ ΘΑΛΑΣΣΑ Νο 12 / ΜΠΛΑΙΤΟΝ ΕΝΙΝΤ"
+             },
+    "B068":  {
+                 "source":  "ianos:https://www.ianos.gr/books/eleutheros-chronos-chompu/chompu-komiks/persepolis-0573825",
+                 "matched":  "PERSEPOLIS / ΣΑΤΡΑΠΙ ΜΑΡΓΙΑΝ"
+             },
+    "B163":  {
+                 "source":  "openlibrary:/works/OL14929074W",
+                 "matched":  "Unseen Academicals"
+             }
+}
